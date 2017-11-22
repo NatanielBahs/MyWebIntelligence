@@ -52,7 +52,7 @@ npm run watch
 
 
 ````sh
-git clone https://github.com/MyWebIntelligence/MyWebIntelligence.git
+git clone https://github.com/NatanielBahs/MyWebIntelligence.git
 cd MyWebIntelligence
 ````
 
